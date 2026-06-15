@@ -1,0 +1,121 @@
+body{
+    background-color:beige;
+}
+#header-section{
+   background-color:rgb(33, 8, 102);
+   text-align:center;
+   margin:-22px;
+   border: 2px solid white;
+   border-radius: 0px 0px 40px 40px;
+   font-size:20px;
+   color:white;
+}
+#header-section li{
+display:inline;
+padding:20px;
+font-size:20px;
+font-weight:bold;
+}
+#header-section a{
+    color:white;
+}
+#header-section a:hover{
+    text-decoration:none;
+}
+#about-me{
+    margin-top: 40px;
+    border:2px solid white;
+    border-radius: 40px;
+    background-color:rgba(252, 252, 252, 0.421);
+    padding: 10px;
+}
+#about-me h2{
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left:15px;
+}
+#about-me p{
+    font-size: 20px;
+    font-family:arial, sans-serif;
+    margin:auto;
+    padding: 0 10px 0 10px;
+}
+#about-me img{
+    border: 4px solid rgb(0, 0, 0);
+    height:200px;
+}
+#about-me figcaption{
+    font-size: 10px;
+    font-family:arial, sans-serif;
+}
+
+#Skills{
+    margin-top: 20px;
+    border:2px solid white;
+    border-radius: 40px;
+    background-color:rgb(252, 252, 252);
+    padding: 0 0 0 20px;
+}
+#Skills h2{
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Skills ul{
+    margin-left:15px;
+    font-size: 20px;
+}
+#projects{
+    margin-top: 20px;
+    border:2px solid white;
+    border-radius: 40px;
+    background-color:rgba(147, 253, 195, 0.634);
+    padding: 0 0 0 20px;
+}
+#projects h2{
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#projects h3{
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#projects p{
+font-size:20px;
+}
+#projects article{
+    margin:auto;
+}
+#contact{
+    margin-top: 20px;
+    border:2px solid white;
+    border-radius: 40px;
+    background-color:rgb(183, 203, 248);
+    padding: 0 0 0 20px;
+    margin-bottom:30px;
+}
+#contact h2{
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#contact a:hover{
+text-decoration:none;
+}
+#contact p{
+    font-size: 20px;
+}
+footer{
+    background-color:rgb(33, 8, 102);
+    text-align:center;
+    margin:-15px;
+    border: 2px solid white;
+    border-radius: 40px 40px 0px 0px;
+    font-size:15px;
+    color:white;
+}
+footer a{
+    color:white;
+    text-decoration:overline;
+}
+footer a:hover{
+    text-decoration:none;
+}
